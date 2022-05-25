@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This blog will attempt to convey my brain's random blurbs about programming with C#, .NET, Unity, and related tools.
 
-Maybe say a some things about yourself.
+I may also throw in occasional game reviews, because I play a __lot__ of games, and that seems like a good way to justify all that time.
 
-Or maybe what you plan to blog about.
+And if I ever get my store page up, that may be somehow integrated here as well. That site will be called _Vault357.com_. For now, that link will take you to my eBay sellers page, where I usually have some goodies available for sale.
